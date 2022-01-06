@@ -45,5 +45,5 @@ app.post('/create', (req, res) => {
 })
 
 server.listen(ports, () => {
-    console.log(`Example app listening at https://mail.syden.xyz:${ports}`)
+    console.log(`App listening at https://mail.syden.xyz:${ports}`)
   })
