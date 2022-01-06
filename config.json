@@ -1,0 +1,4 @@
+{
+    "cpanelauth": "cpanel user:token",
+    "httpsport": "8443"
+}
