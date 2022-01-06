@@ -12,9 +12,9 @@ var bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded({ extended: false }));
 var server = https.createServer(credentials, app);
 const ports = config.httpsport;
-//const db = require('quick.db');
+const db = require('quick.db');
 
-app.post('/createElope-Collision9-Sector', (req, res) => {
+app.post('/create', (req, res) => {
     fna()
     async function fna()
     {
