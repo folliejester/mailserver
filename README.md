@@ -2,7 +2,6 @@
 #
 #### Helps user to create their own mail account through the cPanel's API
 ##### Created by Rajorshi Ghosh
-##### Team Member : Kingsuk Datta, Vanishree Mahato, Sayak Ghosh
 
 [View the Project Here](https://mail.syden.xyz)
 
